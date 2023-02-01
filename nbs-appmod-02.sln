@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nbs-appmod-02", "nbs-appmod-02\nbs-appmod-02.csproj", "{53CA57E9-D966-41A3-AAC9-7D021C59C380}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53CA57E9-D966-41A3-AAC9-7D021C59C380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53CA57E9-D966-41A3-AAC9-7D021C59C380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53CA57E9-D966-41A3-AAC9-7D021C59C380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53CA57E9-D966-41A3-AAC9-7D021C59C380}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8238529-AA9C-44C3-8CAC-911232651DFA}
+	EndGlobalSection
+EndGlobal
